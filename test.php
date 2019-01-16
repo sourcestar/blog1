@@ -9,3 +9,4 @@ require 'vendor/autoload.php';
 use APP\Sayhello;
 
 echo Sayhello::index();
+echo "test";
