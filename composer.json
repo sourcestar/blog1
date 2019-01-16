@@ -1,0 +1,17 @@
+{
+    "name": "administrator/blog1",
+    "description": "composer test",
+    "authors": [
+        {
+            "name": "star",
+            "email": "zzlj002@126.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "APP\\": "src/"
+        }
+    }
+}
